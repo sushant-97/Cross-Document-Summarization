@@ -4,7 +4,7 @@ Given a cluster of documents related to specific topic, task is to generate summ
 ## Methodology
 ![Methodology](Methodology.jpeg)
 
-## Qualitative Resulta
+## Qualitative Results
 ![Results](Results.jpeg)
 
 ## Limitations of Future Scope
