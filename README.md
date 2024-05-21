@@ -14,7 +14,7 @@ This project focuses on extracting and summarizing information from a set of doc
 
 ## Challenges
 
-- **Labelled Data Scarcity**: One of the main challenges is the scarcity of labeled datasets for training summarization models.
+- **Labelled Data Scarcity**: Integration of GNN and PLM embeddings.
 - **Quality of Summaries**: Ensuring that the generated summaries are accurate and retain the essential information from the original documents.
 
 ## Methodology
